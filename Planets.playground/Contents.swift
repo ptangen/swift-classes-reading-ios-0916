@@ -44,7 +44,6 @@ planetInfoTuple(planet: earth)
 planetInfoTuple(planet: mars)
 
 
-
 class Planet {
     var name: String
     var numberOfMoons: Int
